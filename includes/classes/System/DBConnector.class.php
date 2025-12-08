@@ -131,8 +131,4 @@ class DBConnector
     $this->db_conn->rollBack();
   }
 }
-
-
-
-
 ?>
